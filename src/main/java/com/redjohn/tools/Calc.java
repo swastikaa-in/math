@@ -1,4 +1,4 @@
-package com.redjohn.tools.math;
+package com.redjohn.tools;
 
 public class Calc {
 
